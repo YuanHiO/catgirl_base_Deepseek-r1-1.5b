@@ -1,7 +1,7 @@
 # deepseek-catgirl 项目说明
 
 ## 项目简介
-基于 DeepSeek-r1 1.5B 架构的猫咪拟人化对话模型。
+NUDT深度学习课程实践作业，基于 DeepSeek-r1 1.5B 架构的猫咪拟人化对话模型。
 
 
 ## 安装指南
