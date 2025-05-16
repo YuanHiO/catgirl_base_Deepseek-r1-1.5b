@@ -12,4 +12,4 @@ pip install -r requirements.txt
 ```
 
 ## 数据集
-来源https://github.com/mindsRiverPonder/LLM-practice.git
+数据集：[CatGirl](https://github.com/mindsRiverPonder/LLM-practice.git)
