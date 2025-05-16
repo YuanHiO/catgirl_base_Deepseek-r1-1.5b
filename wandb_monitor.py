@@ -1,5 +1,5 @@
 import wandb
-wb_token = "ebbb6cee9761226a00dbe91199506bde0424e5f7"
+wb_token = ""
 
 wandb.login(key=wb_token)
 wandb.init(
