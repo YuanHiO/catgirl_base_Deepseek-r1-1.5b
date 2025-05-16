@@ -1,0 +1,20 @@
+# 项目特定目录
+deepseek-catgirl-merged/
+deepseek-ai/
+llama.cpp/
+unsloth_compiled_cache/
+unsloth_training_checkpoints/
+wandb/
+deepseek-catgirl.gguf
+.vscode
+deepseek-catgirl-fine-tuned/
+# 通用规则
+*.o
+*.so
+*.dll
+*.exe
+build/
+dist/
+.env
+.DS_Store
+*.log
