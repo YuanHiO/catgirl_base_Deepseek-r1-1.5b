@@ -10,3 +10,6 @@ NUDT深度学习课程实践作业，基于 DeepSeek-r1 1.5B 架构的猫咪拟�
 # 安装依赖
 pip install -r requirements.txt
 ```
+
+## 数据集
+来源https://github.com/mindsRiverPonder/LLM-practice.git
